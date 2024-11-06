@@ -5,4 +5,4 @@ def looping(n):
     for i in range(n):
         print("Github rocks!")
 
-looping(100000000)
+looping(10)
